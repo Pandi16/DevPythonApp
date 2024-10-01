@@ -12,4 +12,4 @@ COPY  .   /opt/pandiwebapp/
 WORKDIR /opt/pandiwebapp/
 #changing current location like cd command
 CMD ["python","pandi.py"]
-#to choose default process which can be replace by user while container creation
+#to choose default process which can be replace by user w
